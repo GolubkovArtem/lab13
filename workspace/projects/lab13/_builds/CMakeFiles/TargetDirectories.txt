@@ -1,0 +1,4 @@
+/home/artem/workspace/projects/lab13/_builds/CMakeFiles/rebuild_cache.dir
+/home/artem/workspace/projects/lab13/_builds/CMakeFiles/unpack.dir
+/home/artem/workspace/projects/lab13/_builds/CMakeFiles/edit_cache.dir
+/home/artem/workspace/projects/lab13/_builds/CMakeFiles/pack.dir
